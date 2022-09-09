@@ -1,5 +1,5 @@
 # Task1
-my firat task
+my first task
 # teja srinivas
 ## y19it016
 ### tejasrinivaschinni@gamil.com
